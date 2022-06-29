@@ -43,10 +43,11 @@ Hi! I'm Rahma (she/her) currently in my third year studying computer science at 
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
 
 ### 👩🏻‍🔧 Currently working on
-* monitoring events as a software developer intern at [DRW](https://drw.com/)
+* bringing League of Legends champions to life as a software engineering intern at [Riot Games](https://www.riotgames.com/en)
 * helping businesses and customers shop sustainably at [Clove](https://clove.eco/)
 
 ### 💁🏻‍♀️ Previously worked on
+* monitoring events as a software developer intern at [DRW](https://drw.com/)
 * building software for drone fleet management as an intern at [AirMatrix](https://airmatrix.ca/)
 * organizing Canada's biggest hackathon as a team lead at [Hack the North](https://hackthenorth.com/)
 * prototyping in the innovation lab as an intern at [Accenture](https://www.accenture.com/ca-en)
