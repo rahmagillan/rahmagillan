@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 About Me
-Hi! I'm Rahma (she/her) currently in my third year studying computer science at the University of Waterloo and business at Wilfrid Laurier University. Welcome to my GitHub!
+Hi! I'm Rahma (she/her) currently in my fourth year studying computer science at the University of Waterloo and business at Wilfrid Laurier University. Welcome to my GitHub!
 
-**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- **Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/C++-314968?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ec1a8c?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-ffdb66?logo=python)
@@ -41,12 +41,14 @@ Hi! I'm Rahma (she/her) currently in my third year studying computer science at 
 ![Figma](https://img.shields.io/badge/Figma-0ac97f?logo=figma)
 ![Slack](https://img.shields.io/badge/Slack-501651?logo=slack)
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
-
+ -->
 ### 👩🏻‍🔧 Currently working on
-* bringing League of Legends champions to life as a software engineering intern at [Riot Games](https://www.riotgames.com/en)
-* helping businesses and customers shop sustainably at [Clove](https://clove.eco/)
+* learning new things on break 😵‍💫
 
 ### 💁🏻‍♀️ Previously worked on
+* empowering clients with trade automation as an intern at [Bloomberg](https://www.bloomberg.com)
+* bringing League of Legends champions to life as an intern at [Riot Games](https://www.riotgames.com/en)
+* helping businesses and customers shop sustainably at [Clove](https://clove.eco/)
 * monitoring events as a software developer intern at [DRW](https://drw.com/)
 * building software for drone fleet management as an intern at [AirMatrix](https://airmatrix.ca/)
 * organizing Canada's biggest hackathon as a team lead at [Hack the North](https://hackthenorth.com/)
